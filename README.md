@@ -15,9 +15,9 @@ The database contains the following tables:
 - Customers – customer details, contact information, city, and registration date
 - Categories – product category information
 - Products – product details, category, and pricing
-- Orders – order information, customer details, order date, payment method, and order status
-- Order Items – products, quantities, and order-level product details
-- Payments – payment information associated with orders
+- Orders – order information, customer details, order date, and order status
+- Order Items – products and quantities associated with each order
+- Payments – payment method and payment status associated with orders
 
 ## SQL Concepts Used
 
@@ -62,23 +62,7 @@ The project includes business-focused analysis such as:
 13. Products Never Ordered
 14. Repeat Customer Analysis
 15. Order Performance Summary
-
-## 💡 Key Insights
-
-The analysis focuses on identifying:
-
-- Order distribution across different statuses
-- Customer purchasing patterns
-- Frequently used payment methods
-- Best-selling products
-- Products generating the highest revenue
-- Revenue contribution by category
-- Top-spending customers
-- High-value and repeat customers
-- Products with no recorded sales
-- Products priced above the overall average
-- Overall order performance
-
+16. 
 ## 📊 Analytics Results
 
 ### 1. Order Status Analysis
@@ -95,6 +79,22 @@ The analysis focuses on identifying:
 
 ### 5. Top Customers by Spending
 ![Top Customers by Spending](top-customers-by-spending.png)
+
+## 💡 Key Insights
+
+The analysis focuses on identifying:
+
+- Order distribution across different statuses
+- Customer purchasing patterns
+- Frequently used payment methods
+- Best-selling products
+- Products generating the highest revenue
+- Revenue contribution by category
+- Top-spending customers
+- High-value and repeat customers
+- Products with no recorded sales
+- Products priced above the overall average
+- Overall order performance
 
 ## Tools Used
 
