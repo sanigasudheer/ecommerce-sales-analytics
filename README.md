@@ -63,7 +63,7 @@ The project includes business-focused analysis such as:
 14. Repeat Customer Analysis
 15. Order Performance Summary
 
-## Key Insights
+## 💡 Key Insights
 
 The analysis focuses on identifying:
 
