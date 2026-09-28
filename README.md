@@ -114,4 +114,4 @@ It demonstrates how data from multiple related tables can be combined using SQL 
 
 Saniga Sudheer
 
-B.Tech Computer Science and Engineering
+B.Tech Computer Science and Engineering Graduate
