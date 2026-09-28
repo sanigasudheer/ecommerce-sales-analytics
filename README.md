@@ -79,6 +79,23 @@ The analysis focuses on identifying:
 - Products priced above the overall average
 - Overall order performance
 
+## 📊 Analytics Results
+
+### 1. Order Status Analysis
+![Order Status Analysis](order-status-analysis.png)
+
+### 2. Payment Method Analysis
+![Payment Method Analysis](payment-method-analysis.png)
+
+### 3. Revenue by Product
+![Revenue by Product](revenue-by-product.png)
+
+### 4. Top 5 Best-Selling Products
+![Top 5 Best-Selling Products](top-selling-products.png)
+
+### 5. Top Customers by Spending
+![Top Customers by Spending](top-customers-by-spending.png)
+
 ## Tools Used
 
 - MySQL
